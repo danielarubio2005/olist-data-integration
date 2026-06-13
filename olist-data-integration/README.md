@@ -6,7 +6,7 @@
 **Institution:** Gisma University of Applied Sciences
 
 **Video demo:** https://youtu.be/CoYDLGlEI_s
-**Report:** file:///Users/danielarubio/Desktop/GISMA/Data%20Integration/Data%20Integration%20Report%20-%20GH1024883.pdf
+**Report:** https://drive.google.com/file/d/1djcFt1dcGkeM-StQa6CIWZxCXiA-huHB/view?usp=sharing
 
 ---
 
